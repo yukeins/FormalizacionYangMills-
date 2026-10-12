@@ -1,0 +1,11 @@
+name = "LatticeGaugeMassGap"
+version = "0.1.0"
+keywords = ["math", "physics", "gauge-theory"]
+defaultTargets = ["LatticeGaugeMassGap"]
+
+[leanOptions]
+pp.unicode.fun = true
+relaxedAutoImplicit = false
+
+[[lean_lib]]
+name = "LatticeGaugeMassGap"

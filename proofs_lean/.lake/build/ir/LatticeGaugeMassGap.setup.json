@@ -1,0 +1,7 @@
+{"plugins": [],
+ "package": "LatticeGaugeMassGap",
+ "options": {"relaxedAutoImplicit": false, "pp.unicode.fun": true},
+ "name": "LatticeGaugeMassGap",
+ "isModule": false,
+ "importArts": {},
+ "dynlibs": []}
