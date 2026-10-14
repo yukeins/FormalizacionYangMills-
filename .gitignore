@@ -1,0 +1,23 @@
+# Build artifacts and binaries
+target/
+engine_rust/target/
+engine_rust/test_rust
+*.olean
+*.ilean
+*.c
+proofs_lean/.lake/
+
+# LaTeX compilation auxiliary files
+monograph/*.aux
+monograph/*.log
+monograph/*.out
+monograph/*.toc
+monograph/*.synctex.gz
+monograph/*.fls
+monograph/*.fdb_latexmk
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~

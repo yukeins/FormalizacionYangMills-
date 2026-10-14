@@ -7,5 +7,10 @@ defaultTargets = ["LatticeGaugeMassGap"]
 pp.unicode.fun = true
 relaxedAutoImplicit = false
 
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.34.1"
+
 [[lean_lib]]
 name = "LatticeGaugeMassGap"
