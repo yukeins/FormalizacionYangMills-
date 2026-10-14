@@ -5,10 +5,11 @@
 [![License](https://img.shields.io/badge/license-Apache%202.0%20%2F%20MIT-blue.svg)](LICENSE)
 [![Verification](https://img.shields.io/badge/certification-100%25%20PASS-brightgreen.svg)]()
 [![Memory Usage](https://img.shields.io/badge/RAM-%3C%2035%20MB-success.svg)]()
-[![DOI](https://img.shields.io/badge/DOI-pending%20publication-lightgrey.svg)]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23377431.svg)](https://doi.org/10.5281/zenodo.23377431)
 
-**Author:** R. Santiago Z. G.  
+**Author:** R. Santiago Z. G. (Zapara, R. S.)  
 **Affiliation:** Independent Researcher  
+**Citation:** Zapara, R. S. (2026). *Spectral Geometry of Non-Abelian Gauge Fields: Topological Coercivity, Unitary Boundedness, and the Exact Continuum Mass Gap*. Zenodo. [https://doi.org/10.5281/zenodo.23377431](https://doi.org/10.5281/zenodo.23377431)  
 **Repository:** [https://github.com/yukeins/YangMills-Spectral-Rust](https://github.com/yukeins/YangMills-Spectral-Rust)  
 **Companion Monograph:** *Spectral Geometry of Non-Abelian Gauge Fields: Topological Coercivity, Unitary Boundedness, and the Exact Continuum Mass Gap*
 
